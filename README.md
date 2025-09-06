@@ -1,3 +1,8 @@
+<p align="center"> 
+  <img src="https://github.com/AlkaShukla26/Netflix/blob/main/ChatGPT%20Image%20Sep%206%2C%202025%2C%2002_04_49%20PM.png?raw=true" 
+       alt="Netflix Cover" width="567" height="227"/> 
+</p>
+
  # 🎬 Netflix Data Analysis Project  
 Exploratory data analysis of Netflix’s global catalog using Python, uncovering genre trends, regional preferences, and insights for content strategy.  
 
